@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cursos de Data Engenieer da Alura</title>
+    <title>Cursos de Data Engenieer da Alura!</title>
 </head>
 <body>
     <ul>
-        <li>Vagrant</li>
-        <li>Docker</li>
-        <li>Ansible</li>
-        <li>Integração Continua: Com mais eficiencia</li>
-	<li>Data Science</li>
+        <li>Vagrant: gerenciando máquinas virtuais</li>
+        <li>Docker: criando e gerenciando containers</li>
+        <li>Ansible: sua infraestrutura como código</li>
+        <li>Integração Contínua: mais qualidade e menos risco no desenvolvimento</li>
+	<li>Data Science: primeiros passos</li>
     </ul>
 </body>
 </html>
